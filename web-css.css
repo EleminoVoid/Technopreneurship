@@ -1,0 +1,10 @@
+img{
+    width: 100px;
+    height: 100px;
+    background: url('temp-image.jpg') no-repeat scroll 0;
+    background-position: center;
+    background-size: 70%;
+
+    background-color: rgb(204, 204, 204);
+}
+
